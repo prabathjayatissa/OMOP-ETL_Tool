@@ -12,7 +12,7 @@ export const syntheticPatients: Patient[] = [
     id: "P002",
     gender: "M",
     birthDate: "1972-08-22",
-    race: "Black",
+    race: "",
     ethnicity: "Non-Hispanic"
   },
   {
