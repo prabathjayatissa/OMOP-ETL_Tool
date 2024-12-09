@@ -1,3 +1,3 @@
-# OMOP-ETL_Tool
+# OMOP-ETL - Tool
 
 
