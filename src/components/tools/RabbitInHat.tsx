@@ -14,7 +14,7 @@ export default function RabbitInHat() {
 
   const sampleMappings: MappingField[] = [
     {
-     
+      sourceTable: "patients",
       sourceField: "birth_date",
       targetTable: "person",
       targetField: "birth_datetime",
