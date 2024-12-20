@@ -1,4 +1,4 @@
-# OMOP-ETL - Tool
+# OMOP-ETL-Tool
 
 ## EMR to OMOP-CDM Mapper, a research data mapping tool designed to facilitate the conversion of Electronic Medical Record (EMR) data into the OMOP Common Data Model (CDM) format. This conversion enables standardized research analysis across different healthcare systems. The tool features a "White Rabbit Scan" which analyzes a selected source database and generates a scan report. This report provides key information about the database's tables, including the table name, row count, number of columns, and a completeness metric, visualized as a progress bar. In the example shown, tables like "patients," "conditions," and "medications" have been scanned, revealing details about their size and data integrity.
 
