@@ -15,6 +15,7 @@ export const syntheticPatients: Patient[] = [
     race: "Black",
     ethnicity: "Non-Hispanic"
   },
+  
   {
     id: "P003",
     gender: "F",
