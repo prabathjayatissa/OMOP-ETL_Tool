@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import type { MappingRule } from '../types';
-
+ 
 const defaultMappingRules: MappingRule[] = [
   {
     sourceField: "patients.gender",
