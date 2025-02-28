@@ -5,7 +5,6 @@
 <img width="1272" alt="Screenshot 2024-12-20 at 12 23 53" src="https://github.com/user-attachments/assets/dfb6d4ca-6295-4948-a6f4-bcc33dcda39a" />
 
 
-
 ### The tool features a "White Rabbit Scan" which analyzes a selected source database and generates a scan report. This report provides key information about the database's tables, including the table name, row count, number of columns, and a completeness metric, visualized as a progress bar
 
 
