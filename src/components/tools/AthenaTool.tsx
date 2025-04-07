@@ -8,6 +8,7 @@ interface Vocabulary {
   conceptCount: number;
 }
 
+
 export default function AthenaTool() {
   const [selectedVocabularies, setSelectedVocabularies] = useState<string[]>([]);
   
