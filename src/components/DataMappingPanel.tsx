@@ -23,7 +23,6 @@ const defaultMappingRules: MappingRule[] = [
   }
 ];
 
-
 export default function DataMappingPanel() {
   return (
     <div className="bg-white rounded-lg shadow-lg p-6">
