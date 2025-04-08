@@ -25,6 +25,7 @@ export const syntheticPatients: Patient[] = [
   }
 ];
 
+
 export const syntheticConditions: Condition[] = [
   {
     id: "C001",
